@@ -11,7 +11,7 @@ npm install swift-pass
 ```
 ## Contributing
 
-We welcome contributions from the community! To contribute to SwiftPass, follow these steps:
+We welcome contributions from the community! To contribute to swift-pass, follow these steps:
 
 Fork the repository.
 Create your feature branch: git checkout -b feature/NewFeature.
@@ -22,6 +22,6 @@ Please ensure that your code adheres to the project's coding standards, and incl
 
 ## License
 
-SwiftPass is licensed under the MIT License.
+swift-pass is licensed under the MIT License.
 
-Feel free to use SwiftPass in your projects and contribute to making password generation faster and more secure! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
+Feel free to use swift-pass in your projects and contribute to making password generation faster and more secure! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
